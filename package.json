@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "nodemon": "2.0.16"
+  },
+  "name": "lena-test-npm",
+  "version": "1.0.1-alpha",
+  "description": "my first test",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orenchuck/test-npm-pack.git"
+  },
+  "author": "Orenchuck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Orenchuck/test-npm-pack/issues"
+  },
+  "homepage": "https://github.com/Orenchuck/test-npm-pack#readme",
+  "devDependencies": {
+    "eslint": "8.17.0",
+    "eslint-config-airbnb-base": "15.0.0",
+    "eslint-plugin-import": "2.26.0"
+  }
+}
